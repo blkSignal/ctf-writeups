@@ -8,7 +8,7 @@ Each writeup is structured for clarity, reproducibility, and learning.
 ## Completed Challenges
 
 ### TryHackMe
-- [Basic Pentesting](platforms/tryhackme/2025/basic_pentesting/README.md)  
+- [Basic Pentesting]
   Focus: Enumeration, SSH brute-force, weak credentials, cronjob privilege escalation
 
 ### HackTheBox
