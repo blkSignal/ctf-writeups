@@ -1,0 +1,3 @@
+# PicoCTF
+
+Index of challenges.
