@@ -34,5 +34,5 @@ Each challenge is documented with methodology, supporting evidence, and lessons 
 ---
 
 ## Contact
-- GitHub: [NullBarry](https://github.com/NullBarry)  
+- GitHub: [NullBarry](https://github.com/blkSignal/NullBarry)
 - LinkedIn: [your-linkedin-link-here]  
